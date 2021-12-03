@@ -18,4 +18,4 @@ randomize-values
 If someone wants to add or improve something, I invite you to collaborate directly in this repository: [randomize-values](https://github.com/BurningAl15/random-values.git)
 
 # License
-package-name is released under the [MIT License](https://opensource.org/licenses/MIT)
+randomize-values is released under the [MIT License](https://opensource.org/licenses/MIT)
