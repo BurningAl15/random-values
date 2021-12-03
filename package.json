@@ -4,7 +4,7 @@
   "description": "Random values tries to give an easy way of randomizing elements",
   "main": "src/index.js",
   "bin": {
-    "random-values": "bin/global.js"
+    "randomize-values": "bin/global.js"
   },
   "preferGlobal": true,
   "scripts": {
