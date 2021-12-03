@@ -1,0 +1,29 @@
+{
+  "name": "randomize-values",
+  "version": "1.0.0",
+  "description": "Random values tries to give an easy way of randomizing elements",
+  "main": "src/index.js",
+  "bin": {
+    "random-values": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurningAl15/randomize-values.git"
+  },
+  "keywords": [
+    "random",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Aldhair Vera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BurningAl15/randomize-values.git/issues"
+  },
+  "homepage": "https://github.com/BurningAl15/randomize-values.git#readme"
+}
