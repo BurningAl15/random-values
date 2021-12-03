@@ -1,6 +1,6 @@
 {
   "name": "randomize-values",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Random values tries to give an easy way of randomizing elements",
   "main": "src/index.js",
   "bin": {
