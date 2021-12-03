@@ -11,7 +11,7 @@ npm install -g randomize-values
 
 # Usage
 ```bash
-randomize-values
+random-values
 ```
 
 # Contributing

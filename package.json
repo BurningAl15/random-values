@@ -1,10 +1,10 @@
 {
   "name": "randomize-values",
   "version": "1.0.2",
-  "description": "Random values tries to give an easy way of randomizing elements",
+  "description": "Randomize values tries to give an easy way of randomizing elements",
   "main": "src/index.js",
   "bin": {
-    "randomize-values": "bin/global.js"
+    "random-values": "bin/global.js"
   },
   "preferGlobal": true,
   "scripts": {
